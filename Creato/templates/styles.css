@@ -1,0 +1,30 @@
+body {
+    background-color: #131d47;
+    color: white;
+}
+
+.form-container {
+    background: white;
+    color: black;
+    padding: 30px 15px 15px 15px;
+    margin-top: 20px;
+}
+
+.button {
+    background-color: #2ec1c4;
+    color: white;
+    font-weight: bold;
+}
+
+.navbarBg {
+    background-color: #2ec1c4;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.page-heading {
+    margin-top: 20px;
+}
